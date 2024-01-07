@@ -5,7 +5,7 @@ Bienvenido al repositorio del juego Conecta 4, una implementación en Java que p
 ## Características
 
 - **Multijugador en red:** Juega contra un amigo oponente en línea utilizando sockets para la comunicación.
-- **Interfaz de consola:** La interfaz de usuario se presenta en la consola para una experiencia de juego sencilla y eficiente.
+- **Interfaz:** Se implementa una interfaz visual para que sea más cómodo el jugar.
 - **Lógica del juego:** Implementación del juego Conecta 4 con todas las reglas y lógica necesarias.
 
 ## Requisitos del Sistema
